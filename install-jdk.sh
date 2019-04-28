@@ -10,4 +10,4 @@ sudo update-alternatives --config javac
 javac -version
 
 # remove yourself
-# rm $0
+rm $0
