@@ -9,5 +9,9 @@ sudo update-alternatives --config javac
 # show version
 javac -version
 
+echo
+
+echo '"javac" is now on the path'
+
 # remove yourself
 rm $0
