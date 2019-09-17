@@ -3,6 +3,9 @@
 # install jdk
 sudo apt install -y openjdk-8-jdk
 
+# install source
+sudo apt install -y openjdk-8-source
+
 # make sure it's default
 sudo update-alternatives --config javac
 
